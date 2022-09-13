@@ -1,18 +1,63 @@
 {
     "spec_version": "v1.18",
-    "identifier": "KSP-silent-playthrough",
-    "name": "KSP silent playthrough",
-    "abstract": "Mods that are used in DMCs silent playthrough",
+    "identifier": "silentPlaythrough",
+    "name": "Silent playthrough",
+    "abstract": "A list of mods I use on my silent playthrough",
     "author": [
         "DyBev"
     ],
-    "version": "2022.07.16.01.01.09",
+    "version": "2022.09.13.07.13.45",
     "license": [
         "unknown"
     ],
     "depends": [
         {
-            "name": "EditorExtensionsRedux"
+            "name": "ActionGroupManager"
+        },
+        {
+            "name": "AlternateResourcePanel"
+        },
+        {
+            "name": "Astrogator"
+        },
+        {
+            "name": "AstronomersVisualPack"
+        },
+        {
+            "name": "AVP-2kTextures"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "BARIS"
+        },
+        {
+            "name": "BarisBridge"
+        },
+        {
+            "name": "BetterTimeWarpCont"
+        },
+        {
+            "name": "CameraTools"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "ContractConfigurator"
         },
         {
             "name": "ContractConfigurator-CleverSats"
@@ -27,7 +72,7 @@
             "name": "ContractConfigurator-KerbalAcademy"
         },
         {
-            "name": "PreciseNode"
+            "name": "ContractConfigurator-KerbinSpaceStation"
         },
         {
             "name": "ContractConfigurator-RemoteTech"
@@ -36,121 +81,46 @@
             "name": "ContractConfigurator-Tourism"
         },
         {
-            "name": "AutomatedScreenshots"
-        },
-        {
-            "name": "KSP-Recall"
-        },
-        {
-            "name": "ContractConfigurator"
-        },
-        {
-            "name": "xScienceContinued"
-        },
-        {
-            "name": "KAS"
-        },
-        {
-            "name": "Science-Full-Reward"
-        },
-        {
-            "name": "MakingHistory-DLC"
-        },
-        {
-            "name": "BreakingGround-DLC"
-        },
-        {
-            "name": "NearFutureProps"
-        },
-        {
-            "name": "KIS"
-        },
-        {
-            "name": "TUFX"
-        },
-        {
-            "name": "SpaceTuxLibrary"
-        },
-        {
-            "name": "ModuleManager"
-        },
-        {
-            "name": "kOS"
-        },
-        {
-            "name": "ProceduralFairings"
-        },
-        {
-            "name": "ActionGroupManager"
-        },
-        {
-            "name": "SCANsat"
-        },
-        {
-            "name": "DynamicBatteryStorage"
-        },
-        {
-            "name": "BackgroundResources"
-        },
-        {
-            "name": "Astrogator"
-        },
-        {
-            "name": "KspCraftOrganizer"
-        },
-        {
-            "name": "TransferWindowPlanner"
-        },
-        {
-            "name": "B9PartSwitch"
-        },
-        {
-            "name": "MechJebForAll"
-        },
-        {
-            "name": "TweakScale"
-        },
-        {
-            "name": "HullcamVDSContinued"
-        },
-        {
-            "name": "NearFutureElectrical-Core"
-        },
-        {
-            "name": "NearFutureConstruction"
-        },
-        {
-            "name": "ConnectedLivingSpace"
+            "name": "DistantObject"
         },
         {
             "name": "DistantObject-default"
         },
         {
-            "name": "NearFutureSolar"
+            "name": "DynamicBatteryStorage"
         },
         {
-            "name": "NearFutureElectrical"
+            "name": "EasyVesselSwitch"
         },
         {
-            "name": "EnvironmentalVisualEnhancements-HR"
+            "name": "EditorExtensionsRedux"
         },
         {
-            "name": "CommunityCategoryKit"
+            "name": "EnvironmentalVisualEnhancements"
         },
         {
-            "name": "Milkyway-Skybox-SpaceEngine"
+            "name": "HeatControl"
         },
         {
-            "name": "Timekeeper"
+            "name": "HullcamVDSContinued"
         },
         {
-            "name": "NearFutureSolar-Core"
+            "name": "KAS"
         },
         {
-            "name": "TextureReplacer"
+            "name": "KerbalAlarmClock"
         },
         {
-            "name": "TrackingStationEvolved"
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalHealth"
+        },
+        {
+            "name": "KIS"
+        },
+        {
+            "name": "kOS"
         },
         {
             "name": "kOSBFSMultipleArchiveManager"
@@ -159,77 +129,143 @@
             "name": "kOSforAll"
         },
         {
-            "name": "ZeroMiniAVC"
+            "name": "KSP-Recall"
         },
         {
-            "name": "DistantObject"
+            "name": "KspCraftOrganizer"
+        },
+        {
+            "name": "LightsOutRelit"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "Milkyway-Skybox-SpaceEngine"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "PreciseNode"
+        },
+        {
+            "name": "ProceduralFairings"
         },
         {
             "name": "RCSBuildAid"
         },
         {
-            "name": "EasyVesselSwitch"
-        },
-        {
-            "name": "CommunityResourcePack"
-        },
-        {
-            "name": "KerbalEngineerRedux"
-        },
-        {
-            "name": "ToolbarController"
-        },
-        {
-            "name": "EnvironmentalVisualEnhancements"
-        },
-        {
-            "name": "ContractConfigurator-KerbinSpaceStation"
-        },
-        {
-            "name": "TACLS"
-        },
-        {
-            "name": "StationPartsExpansionRedux"
+            "name": "RealHeat"
         },
         {
             "name": "RemoteTech"
         },
         {
-            "name": "BetterTimeWarpCont"
-        },
-        {
-            "name": "TweakScaleCompanion-ReStockPlus"
-        },
-        {
-            "name": "ClickThroughBlocker"
+            "name": "ReStock"
         },
         {
             "name": "ReStockPlus"
         },
         {
-            "name": "KerbalHealth"
+            "name": "SCANsat"
         },
         {
-            "name": "ReStock"
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Science-Full-Reward"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "SystemHeat"
+        },
+        {
+            "name": "SystemHeat-Converters"
+        },
+        {
+            "name": "SystemHeat-FissionEngines"
+        },
+        {
+            "name": "SystemHeat-FissionReactors"
+        },
+        {
+            "name": "SystemHeat-Harvesters"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "Timekeeper"
         },
         {
             "name": "Toolbar"
         },
         {
-            "name": "CameraTools"
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TrackingStationEvolved"
+        },
+        {
+            "name": "TransferWindowPlanner"
+        },
+        {
+            "name": "TUFX"
+        },
+        {
+            "name": "TweakScale"
         },
         {
             "name": "TweakScale-Redist"
         },
         {
-            "name": "KerbalAlarmClock"
+            "name": "TweakScaleCompanion-ReStockPlus"
         },
         {
-            "name": "LightsOutRelit"
+            "name": "xScienceContinued"
+        },
+        {
+            "name": "ZeroMiniAVC"
         }
     ],
     "recommends": [],
     "suggests": [],
     "kind": "metapackage",
-    "release_date": "2022-07-16T14:01:09.5644852+01:00"
+    "release_date": "2022-09-13T20:13:45.2057226+01:00"
 }
