@@ -1,0 +1,164 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "StreamCareer",
+    "name": "Stream Career",
+    "abstract": "A list of modules installed on the Stream Career",
+    "author": [
+        "dylan"
+    ],
+    "version": "2023.05.01.09.23.57",
+    "ksp_version_min": "1.12.5",
+    "ksp_version_max": "1.12.5",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BackgroundResources"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ConnectedLivingSpace"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "ContractConfigurator-CleverSats"
+        },
+        {
+            "name": "DeployableEngines"
+        },
+        {
+            "name": "DynamicBatteryStorage"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalEngineerRedux"
+        },
+        {
+            "name": "KerbalHealth"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "kOSforAll"
+        },
+        {
+            "name": "KSP-Recall"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KspCraftOrganizer"
+        },
+        {
+            "name": "MechJebForAll"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "NearFutureConstruction"
+        },
+        {
+            "name": "NearFutureElectrical"
+        },
+        {
+            "name": "NearFutureElectrical-Core"
+        },
+        {
+            "name": "NearFutureElectrical-DecayingRTGs"
+        },
+        {
+            "name": "NearFutureLaunchVehicles"
+        },
+        {
+            "name": "NearFutureProps"
+        },
+        {
+            "name": "NearFutureSolar"
+        },
+        {
+            "name": "NearFutureSolar-Core"
+        },
+        {
+            "name": "PreciseNode"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "RemoteTech"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RestockRigidLegs"
+        },
+        {
+            "name": "SCANsat"
+        },
+        {
+            "name": "SpaceTuxLibrary"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs"
+        },
+        {
+            "name": "TACLS"
+        },
+        {
+            "name": "TACLSMining"
+        },
+        {
+            "name": "Timekeeper"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TrackingStationEvolved"
+        },
+        {
+            "name": "VenStockRevamp-Core"
+        },
+        {
+            "name": "VenStockRevamp-NewParts"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2023-05-01T22:23:57.4984778+01:00",
+    "kind": "metapackage"
+}
+
