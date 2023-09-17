@@ -1,0 +1,304 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "KSP-RO",
+    "name": "KSP-RO",
+    "abstract": "A list of modules installed on the Auto KSP KSP instance",
+    "author": [
+        "dybev"
+    ],
+    "version": "2023.09.17.03.29.33",
+    "ksp_version_min": "1.12.3",
+    "ksp_version_max": "1.12.3",
+    "license": [
+        "unknown"
+    ],
+    "depends": [
+        {
+            "name": "AdvancedJetEngine"
+        },
+        {
+            "name": "AtmosphereAutopilot"
+        },
+        {
+            "name": "B9-PWings-Fork"
+        },
+        {
+            "name": "B9PartSwitch"
+        },
+        {
+            "name": "BDAnimationModules"
+        },
+        {
+            "name": "CanaveralPads"
+        },
+        {
+            "name": "ClickThroughBlocker"
+        },
+        {
+            "name": "CommunityCategoryKit"
+        },
+        {
+            "name": "CommunityResourcePack"
+        },
+        {
+            "name": "ConformalDecals"
+        },
+        {
+            "name": "ContractConfigurator"
+        },
+        {
+            "name": "CustomBarnKit"
+        },
+        {
+            "name": "CustomPreLaunchChecks"
+        },
+        {
+            "name": "DepthMask"
+        },
+        {
+            "name": "DistantObject"
+        },
+        {
+            "name": "DistantObject-default"
+        },
+        {
+            "name": "EditorExtensionsRedux"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements"
+        },
+        {
+            "name": "FerramAerospaceResearchContinued"
+        },
+        {
+            "name": "FirespitterCore"
+        },
+        {
+            "name": "FirespitterResourcesConfig"
+        },
+        {
+            "name": "HangerExtenderExtended"
+        },
+        {
+            "name": "Harmony2"
+        },
+        {
+            "name": "KerbalAlarmClock"
+        },
+        {
+            "name": "KerbalChangelog"
+        },
+        {
+            "name": "Kerbalism"
+        },
+        {
+            "name": "Kerbalism-Config-RO"
+        },
+        {
+            "name": "KerbalJointReinforcementContinued"
+        },
+        {
+            "name": "KerbalKonstructs"
+        },
+        {
+            "name": "KerbalRenamer"
+        },
+        {
+            "name": "Kopernicus"
+        },
+        {
+            "name": "kOS"
+        },
+        {
+            "name": "kOSforAll"
+        },
+        {
+            "name": "KSCSwitcher"
+        },
+        {
+            "name": "KSPBurst"
+        },
+        {
+            "name": "KSPCommunityFixes"
+        },
+        {
+            "name": "KSPWheel"
+        },
+        {
+            "name": "LunarTransferPlanner"
+        },
+        {
+            "name": "MagiCore"
+        },
+        {
+            "name": "MechJeb2"
+        },
+        {
+            "name": "ModularFlightIntegrator"
+        },
+        {
+            "name": "ModularLaunchPads"
+        },
+        {
+            "name": "ModuleManager"
+        },
+        {
+            "name": "Parallax"
+        },
+        {
+            "name": "Parallax-StockScatterTextures"
+        },
+        {
+            "name": "Parallax-StockTextures"
+        },
+        {
+            "name": "PatchManager"
+        },
+        {
+            "name": "PlanetShine"
+        },
+        {
+            "name": "PlanetShine-Config-Default"
+        },
+        {
+            "name": "ProceduralFairings"
+        },
+        {
+            "name": "ProceduralParts"
+        },
+        {
+            "name": "RCSBuildAid"
+        },
+        {
+            "name": "RealAntennas"
+        },
+        {
+            "name": "RealChute"
+        },
+        {
+            "name": "RealFuels"
+        },
+        {
+            "name": "RealHeat"
+        },
+        {
+            "name": "RealismOverhaul"
+        },
+        {
+            "name": "RealPlume"
+        },
+        {
+            "name": "RealSolarSystem"
+        },
+        {
+            "name": "ReStock"
+        },
+        {
+            "name": "ReStockPlus"
+        },
+        {
+            "name": "RetractableLiftingSurface"
+        },
+        {
+            "name": "ROCapsules"
+        },
+        {
+            "name": "ROEngines"
+        },
+        {
+            "name": "ROHeatshields"
+        },
+        {
+            "name": "ROLib"
+        },
+        {
+            "name": "ROSolar"
+        },
+        {
+            "name": "ROTanks"
+        },
+        {
+            "name": "RP-1"
+        },
+        {
+            "name": "RP-1-ExpressInstall"
+        },
+        {
+            "name": "RP-1-ExpressInstall-Graphics-High"
+        },
+        {
+            "name": "RSS-CanaveralHD"
+        },
+        {
+            "name": "RSSDateTimeFormatter"
+        },
+        {
+            "name": "RSSTextures16K"
+        },
+        {
+            "name": "RSSVE-HR"
+        },
+        {
+            "name": "Scatterer"
+        },
+        {
+            "name": "Scatterer-config"
+        },
+        {
+            "name": "Scatterer-sunflare"
+        },
+        {
+            "name": "Shabby"
+        },
+        {
+            "name": "SmokeScreen"
+        },
+        {
+            "name": "SolverEngines"
+        },
+        {
+            "name": "StagedAnimation"
+        },
+        {
+            "name": "StationPartsExpansionRedux"
+        },
+        {
+            "name": "StockalikeStructures"
+        },
+        {
+            "name": "SXTContinued"
+        },
+        {
+            "name": "TestFlight"
+        },
+        {
+            "name": "TextureReplacer"
+        },
+        {
+            "name": "TexturesUnlimited"
+        },
+        {
+            "name": "ToolbarController"
+        },
+        {
+            "name": "TransferWindowPlannerFork"
+        },
+        {
+            "name": "TundraSpaceCenter"
+        },
+        {
+            "name": "TweakScale-Redist"
+        },
+        {
+            "name": "VenStockRevamp-Core"
+        },
+        {
+            "name": "VenStockRevamp-NewParts"
+        },
+        {
+            "name": "Waterfall"
+        }
+    ],
+    "release_date": "2023-09-17T16:29:33.56541+01:00",
+    "kind": "metapackage"
+}
